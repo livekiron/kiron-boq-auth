@@ -1,5 +1,5 @@
 // popup.js (snippet)
-const API_BASE = "https://<YOUR_VERCEL_DOMAIN>.vercel.app/api/auth/verify";
+const API_BASE = "https://kiron-boq-auth.vercel.app/pages/api/auth/verify";
 
 const emailInput = document.getElementById("email");
 const verifyBtn = document.getElementById("verify");
